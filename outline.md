@@ -16,3 +16,10 @@ make sure you check all module codes_.
 ### Attend exam board
 
 **PROMPTED** (by Exams Officer / Faculty Office).
+
+## August
+
+### Agree assessment deadlines for following year
+
+**PROMPTED** (by Programme Director): Check draft dedlines list for your module (provided by Programme Director).
+
